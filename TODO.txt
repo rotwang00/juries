@@ -1,0 +1,4 @@
+Jury Sheet App
+
+1. Create a one-page form with numerical ratings and comments in several categories. When the user clicks "Save", store the data.
+
